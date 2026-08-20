@@ -1,0 +1,112 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Pagina-1" id="8QGbzH4AT-y5Nt9iQ9fo">
+    <mxGraphModel dx="1373" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="y-QHFZIQpVkhPoA8YWz4-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="530" width="760" x="205" y="174" as="geometry" />
+        </mxCell>
+        <mxCell id="y-QHFZIQpVkhPoA8YWz4-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="310" width="700" x="235" y="224" as="geometry" />
+        </mxCell>
+        <mxCell id="y-QHFZIQpVkhPoA8YWz4-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="220" width="437.5" x="265" y="284" as="geometry" />
+        </mxCell>
+        <mxCell id="y-QHFZIQpVkhPoA8YWz4-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;MSc&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Student&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="455" y="419" as="geometry" />
+        </mxCell>
+        <mxCell id="y-QHFZIQpVkhPoA8YWz4-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;PhD Candidate&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="785" y="337" as="geometry" />
+        </mxCell>
+        <mxCell id="y-QHFZIQpVkhPoA8YWz4-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;LLM&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="315" y="314" as="geometry" />
+        </mxCell>
+        <mxCell id="y-QHFZIQpVkhPoA8YWz4-18" edge="1" parent="1" source="y-QHFZIQpVkhPoA8YWz4-15" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" target="y-QHFZIQpVkhPoA8YWz4-16" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="675" y="344" />
+            </Array>
+            <mxPoint x="595" y="457" as="sourcePoint" />
+            <mxPoint x="795" y="457" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y-QHFZIQpVkhPoA8YWz4-19" edge="1" parent="1" source="y-QHFZIQpVkhPoA8YWz4-15" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" target="y-QHFZIQpVkhPoA8YWz4-17" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="535" y="354" />
+            </Array>
+            <mxPoint x="475" y="374" as="sourcePoint" />
+            <mxPoint x="565" y="284" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y-QHFZIQpVkhPoA8YWz4-20" edge="1" parent="1" source="y-QHFZIQpVkhPoA8YWz4-17" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="y-QHFZIQpVkhPoA8YWz4-15" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="365" y="454" />
+            </Array>
+            <mxPoint x="455" y="464" as="sourcePoint" />
+            <mxPoint x="535" y="374" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y-QHFZIQpVkhPoA8YWz4-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Prof&#39;s prompt &amp;amp; Idea/Progress/Question&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="227.5" x="445" y="291" as="geometry" />
+        </mxCell>
+        <mxCell id="y-QHFZIQpVkhPoA8YWz4-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Outcome&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="305" y="434" as="geometry" />
+        </mxCell>
+        <mxCell id="y-QHFZIQpVkhPoA8YWz4-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 20px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Hourly internal meeting&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="256.25" x="355.63" y="234" as="geometry" />
+        </mxCell>
+        <mxCell id="y-QHFZIQpVkhPoA8YWz4-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Once-in-a-while&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;merged output&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="160" x="706" y="276" as="geometry" />
+        </mxCell>
+        <mxCell id="y-QHFZIQpVkhPoA8YWz4-26" edge="1" parent="1" source="y-QHFZIQpVkhPoA8YWz4-16" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="y-QHFZIQpVkhPoA8YWz4-15" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="755" y="474" />
+            </Array>
+            <mxPoint x="725" y="519" as="sourcePoint" />
+            <mxPoint x="975" y="409" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y-QHFZIQpVkhPoA8YWz4-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Feedback on an completely LLM-based idea&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="765" y="434" as="geometry" />
+        </mxCell>
+        <mxCell id="y-QHFZIQpVkhPoA8YWz4-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Professor&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="565" y="624" as="geometry" />
+        </mxCell>
+        <mxCell id="y-QHFZIQpVkhPoA8YWz4-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 20px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Daily/Weekly&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 20px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Supervision&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="240" x="465" y="174" as="geometry" />
+        </mxCell>
+        <mxCell id="y-QHFZIQpVkhPoA8YWz4-31" edge="1" parent="1" source="y-QHFZIQpVkhPoA8YWz4-15" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="y-QHFZIQpVkhPoA8YWz4-28" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="475" y="574" />
+            </Array>
+            <mxPoint x="445" y="594" as="sourcePoint" />
+            <mxPoint x="555" y="669" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y-QHFZIQpVkhPoA8YWz4-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Meeting&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;updates&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="110" x="405" y="554" as="geometry" />
+        </mxCell>
+        <mxCell id="y-QHFZIQpVkhPoA8YWz4-33" edge="1" parent="1" source="y-QHFZIQpVkhPoA8YWz4-28" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" target="y-QHFZIQpVkhPoA8YWz4-15" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="695" y="514" />
+            </Array>
+            <mxPoint x="1245" y="614" as="sourcePoint" />
+            <mxPoint x="975" y="666" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y-QHFZIQpVkhPoA8YWz4-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Feedback on an adjusted LLM-based outcome&lt;/font&gt;" vertex="1">
+          <mxGeometry height="80" width="190" x="671" y="548" as="geometry" />
+        </mxCell>
+        <mxCell id="y-QHFZIQpVkhPoA8YWz4-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Weekly/&lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-size: 20px;&quot;&gt;by appointment&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 20px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Meeting&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="320" x="425" y="124" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
