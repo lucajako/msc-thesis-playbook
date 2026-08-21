@@ -13,3 +13,7 @@ With the advent of AI and LLM models, there is now the possibility to integrate 
 ![Picture of the unintended feedback loop that could be created if a student overuses an LLM model to retrieve their thesis](../resources/images/to-be-avoided-loop.svg)
 
 You should not try to replicate this since we can (or, at least, should be able to) understand if your thesis is developed by you or by the lastest flagship LLM model...
+
+## LLM usage
+
+Of course, we do not expect you to avoid using AI; rather, we expect you to use it sensibly to resolve implementation issues, explore new ideas and assist you with the drafting of your manuscript.
