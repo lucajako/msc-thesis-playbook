@@ -64,13 +64,11 @@ master-thesis-guide/
 │   ├── 02-supervision-loop.md
 │   ├── 03-weekly-workflow.md
 │   ├── 04-weekly-presentation.md
-│   ├── 05-research-methodology.md
-│   ├── 06-experiments-and-benchmarking.md
-│   ├── 07-code-and-git-workflow.md
-│   ├── 08-reading-papers.md
-│   ├── 09-thesis-writing.md
-│   ├── 10-thesis-defense.md
-│   └── 11-faq.md
+│   ├── 05-code-and-git-workflow.md
+│   ├── 06-reading-papers.md
+│   ├── 07-thesis-writing.md
+│   ├── 08-thesis-defense.md
+│   └── 09-faq.md
 │
 ├── templates/
 │   ├── weekly-presentation.md
